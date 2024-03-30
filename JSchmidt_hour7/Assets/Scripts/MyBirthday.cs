@@ -8,15 +8,18 @@ public class MyBirthday : MonoBehaviour
     void Start()
     {
         for (int month = 1; month <= 12; month++)
+            if (month == 11)
         {
-            Debug.Log(month == 11);
+                print("It's my birthday!"); Debug.Log(month);
         }
-        print("It's my birthday!");
+        
+       
         for (int day = 1; day <= 31; day++)
+       if (day == 27)
         {
-            Debug.Log(day == 27);
+                print("It's my birthday!"); Debug.Log(day);
         }
-        print("It's my birthday!");
+        
     }
 
     // Update is called once per frame
