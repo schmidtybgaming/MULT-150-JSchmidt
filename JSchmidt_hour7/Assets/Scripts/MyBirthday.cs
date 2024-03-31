@@ -11,7 +11,9 @@ public class MyBirthday : MonoBehaviour
         {
             Debug.Log(m);
             if (m == 11)
-            print("It's my birthday!");
+            {
+                print("It's my birthday!");
+            }
         }
        
 
@@ -19,7 +21,9 @@ public class MyBirthday : MonoBehaviour
         {
             Debug.Log(d);
             if (d==27)
-            print("It's my birthday!");
+            {
+                print("It's my birthday!");
+            }
         }
         
     }
