@@ -8,17 +8,18 @@ public class MyBirthday : MonoBehaviour
     void Start()
     {
         for (int m = 1; m <= 12; m++)
-            
         {
-                Debug.Log(m);
+            Debug.Log(m);
+            if (m == 11)
+            print("It's my birthday!");
         }
-      
        
-           
+
         for (int d = 1; d <= 31; d++)
-       
         {
-                Debug.Log(d);
+            Debug.Log(d);
+            if (d==27)
+            print("It's my birthday!");
         }
         
     }
