@@ -7,17 +7,18 @@ public class MyBirthday : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        for (int month = 1; month <= 12; month++)
-            if (month == 11)
+        for (int m = 1; m <= 12; m++)
+            
         {
-                print("It's my birthday!"); Debug.Log(month);
+                Debug.Log(m);
         }
-        
+      
        
-        for (int day = 1; day <= 31; day++)
-       if (day == 27)
+           
+        for (int d = 1; d <= 31; d++)
+       
         {
-                print("It's my birthday!"); Debug.Log(day);
+                Debug.Log(d);
         }
         
     }
