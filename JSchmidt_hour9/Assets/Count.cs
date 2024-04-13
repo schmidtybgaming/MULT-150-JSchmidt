@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class Count : MonoBehaviour
 {
-    int count = 1;
-    
-    
+    int count = 0; int sum = 1;
+
     void OnTriggerEnter(Collider other)
     {
-        print(other.gameObject.name + "int count");
+        print(other.gameObject.name + "count + 1 = sum");
     }
     void OnTriggerStay(Collider other)
     {
