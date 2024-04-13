@@ -7,13 +7,21 @@ public class Count : MonoBehaviour
 
 
 
+
+    int sum;
     
-    int sum = 1;
+    
+    
+    
+    
+
+
+
+
    
-        
-void OnTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
-        print(sum);
+        print(sum = sum +1);
     }
     
 
