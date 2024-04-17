@@ -12,5 +12,8 @@ public class GameCritic : MonoBehaviour
 
     // Exercise
     // Cover water outside arena borders with terrain and game objects.
-    // 
+    // Added start button from Hour 6.
+    // Added timer from Hour 6.
+    // Made the bumper bigger to have better control of the balls.
+    // Added more shapes to bumper.
 }
