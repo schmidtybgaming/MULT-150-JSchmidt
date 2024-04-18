@@ -5,7 +5,7 @@ using UnityEngine;
 public class GameCritic : MonoBehaviour
 
 {
-    // Game is too easy.
+    // Game is too easy except for when the balls float out of the arena.
     // Would be harder with enemies and obstacles added or make it a vs cpu or multiplayer game.
     // "Wow" factor would be add more levels with different goal locations and play spaces.
     // Fun to push the balls to the goals but was annoying to restart game when there was glitch of the balls floating away from arena.
