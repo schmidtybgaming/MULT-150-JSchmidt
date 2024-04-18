@@ -15,5 +15,5 @@ public class GameCritic : MonoBehaviour
     // Added start button from Hour 6.
     // Added timer from Hour 6.
     // Made the bumper bigger to have better control of the balls.
-    // Added more shapes to bumper.
+    // Added more shapes to bumper to try to prevent the balls from floating away without blocking too much of the player's vision.
 }
