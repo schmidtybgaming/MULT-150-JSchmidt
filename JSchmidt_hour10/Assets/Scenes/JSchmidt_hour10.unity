@@ -171,7 +171,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 2
 --- !u!135 &1597359
 SphereCollider:
@@ -494,7 +494,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 2
 --- !u!135 &422015270
 SphereCollider:
@@ -1597,8 +1597,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1233018052}
-  m_LocalRotation: {x: 0.02311589, y: 0.9467307, z: 0.31353506, w: -0.06973142}
-  m_LocalPosition: {x: -0.92021704, y: -5.380496, z: 5.9017878}
+  m_LocalRotation: {x: -0.06128075, y: 0.909801, z: 0.38392228, w: 0.14529456}
+  m_LocalPosition: {x: -7.7993984, y: -20.798992, z: 24.701553}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2563,7 +2563,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 2
 --- !u!135 &1698496655
 SphereCollider:
@@ -2819,7 +2819,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 2
 --- !u!135 &1747441154
 SphereCollider:
